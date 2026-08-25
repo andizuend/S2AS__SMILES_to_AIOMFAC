@@ -56,7 +56,7 @@ The SMILES to AIOMFAC subgroups (**S2AS**) tool generates a valid AIOMFAC model 
 
 ----
 # Quick guide to running S2AS
-If all you wish to do is to run the S2AS program for your own system of components, this is relatively straightforward task. The following inputs (files) need to be provided.
+If all you wish to do is to run the S2AS program for your own system of components, this is a relatively straightforward task. The following inputs (files) need to be provided.
 
 #### SMILES input file:
 1. For your system, i.e. the list of organic components, generate a SMILES input file containing one SMILES string per line, as shown in the example files in folder `InputFiles`. Have a look at the `smiles_0001.txt` example file for its structure and use it as a template.
